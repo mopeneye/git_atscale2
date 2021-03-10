@@ -1,1 +1,3 @@
  bu dosyayi dev branuch sonrasi yarattim 
+
+buı satiri dev branche ikinci commit oncesi ekliyorum
